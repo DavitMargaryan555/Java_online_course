@@ -6,5 +6,6 @@ public class Hello
         char t = '\u003F';
         System.out.println(t);
         System.out.println(t);
+        System.out.println(t);
     }
 }
